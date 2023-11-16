@@ -19,7 +19,8 @@ Seeking an entry-level Machine Learning Engineer position to apply my strong mat
 
 ## Projects
 - ### Parkinson's Disease Identification using vocal features 
-[Publication](https://ieeexplore.ieee.org/document/10085210)\n
+[Publication](https://ieeexplore.ieee.org/document/10085210)
+
 Developed a *Machine Learning* Model that detects whether the patient is affected by Parkinson's Disease or not by using vocal features of patient.
 
 - ### Heart Disease Prediction using Machine Learning
