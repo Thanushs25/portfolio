@@ -19,9 +19,9 @@ Seeking an entry-level Machine Learning Engineer position to apply my strong mat
 
 ## Projects
 - ### Parkinson's Disease Identification using vocal features 
-[Publication](https://ieeexplore.ieee.org/document/10085210)
-
-Developed a *Machine Learning* Model that detects whether the patient is affected by Parkinson's Disease or not by using vocal features of patient.
+  [Publication](https://ieeexplore.ieee.org/document/10085210)
+  Developed a *Machine Learning* Model that detects whether the patient is affected by Parkinson's Disease or not by using vocal features of 
+  patient.
 
 - ### Heart Disease Prediction using Machine Learning
 Developed a *Machine Learning* Model that detects whether the patient is affected by Cardiovascular Disease or not. Cardiovascular disease, also known as heart disease, has been the primary cause of death globally in recent decades. It encompasses various heart-related conditions, and prompt access to reliable and practical techniques for early diagnosis and treatment is crucial due to the many risk factors associated with heart disease.
