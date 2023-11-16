@@ -11,25 +11,27 @@ Seeking an entry-level Machine Learning Engineer position to apply my strong mat
 
 ## Education
 - B.Tech., Artificial Intelligence and Machine Learning | Kongu Engineering College, Erode (_Present_)
+- HSC | Sri Vijay Vidyalaya Matric Hr. Sec. School, Hosur (_2021_)
+- SSLC | Sri Vijay Vidyalaya Matric Hr. Sec. School, Hosur (_2019_)
 
 ## Internships
 - Worked on project titled "Facial Predictions using Generative Adversial Networks (GAN)" at Applied AI Research Lab from Prof. Jaehyuk Cho, South Korea (_20th March 2023 - 16th September 2023_)
 
 ## Projects
-### Parkinson's Disease Identification using vocal features 
-[Publication](https://ieeexplore.ieee.org/document/10085210)
+- ### Parkinson's Disease Identification using vocal features 
+[Publication](https://ieeexplore.ieee.org/document/10085210)\n
 Developed a *Machine Learning* Model that detects whether the patient is affected by Parkinson's Disease or not by using vocal features of patient.
 
-### Heart Disease Prediction using Machine Learning
+- ### Heart Disease Prediction using Machine Learning
 Developed a *Machine Learning* Model that detects whether the patient is affected by Cardiovascular Disease or not. Cardiovascular disease, also known as heart disease, has been the primary cause of death globally in recent decades. It encompasses various heart-related conditions, and prompt access to reliable and practical techniques for early diagnosis and treatment is crucial due to the many risk factors associated with heart disease.
 
-### “Medicinal plants detection, uses and recovery methods” using ConvolutionalNeural Networks (CNN)
+- ### “Medicinal plants detection, uses and recovery methods” using ConvolutionalNeural Networks (CNN)
 Developed a *Deep Learning* Model that classifies that the given input image (i.e. image of an medicinal plant) which belongs to which family and specifies it name, medicinal uses and recovery methods.
 
-### Speech Emotion recognition using Deep Learning
+- ### Speech Emotion recognition using Deep Learning
 Developed a *Deep Learning* Model that classifies that the given input audio and its emotion (Eg., disgust, happy, sad, etc,.)
 
-### Song-Genre Classification using classification Techniques
+- ### Song-Genre Classification using classification Techniques
 Developed a *Pyspark MLib* Model that classifies the genres of song.
 
 ## Academic Achievements
